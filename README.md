@@ -1,1 +1,1 @@
-# DZ-2.3.1-Patterns
+[![Build status](https://ci.appveyor.com/api/projects/status/62nfy775tfp0ix3x?svg=true)](https://ci.appveyor.com/project/Kitsune785/dz-2-3-1-patterns)
